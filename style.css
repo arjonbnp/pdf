@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1c1c1c;
+  font-family: "Courier New", Consolas, "Fira Code", Monaco, monospace;
+  color: #00ff99;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px;
+  font-size: 24px;
+  background-color: #000;
+  margin: 0;
+  border-bottom: 1px solid #00ff99;
+}
+
+iframe {
+  width: 100vw;
+  height: calc(100vh - 70px);
+  border: none;
+}
